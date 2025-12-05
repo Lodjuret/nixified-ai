@@ -39,6 +39,14 @@
       "version": "0.7.46",
       "url": "https://files.pythonhosted.org/packages/2f/a5/617708be5de6e60f024b37e875bfdb85fd4e81ca02c004af98bcdaec1284/comfyui_workflow_templates-0.7.46.tar.gz",
       "hash": "19dd6d25af51c3e7829b93f191f9ddc86851f7e0b44aa651a6f22d17cd50aa33"
+    },
+    "comfyui_workflow_templates_core": {
+      "type": "PyPi",
+      "name": "comfyui_workflow_templates_core",
+      "version_upper_bound": null,
+      "version": "0.3.20",
+      "url": "https://files.pythonhosted.org/packages/f3/3b/6545c541428863e8c09db3dcb1d74bb66539ff4e061aba7f245c376fbd22/comfyui_workflow_templates_core-0.3.20.tar.gz",
+      "hash": "62d12a334c3c4b3a1337dd8d2415f0f184b8f1dcea8628a4bb012677c47117f9"
     }
   },
   "version": 5
