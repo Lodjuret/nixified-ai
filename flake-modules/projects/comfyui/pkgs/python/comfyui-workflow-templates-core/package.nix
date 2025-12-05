@@ -16,7 +16,7 @@ in
       sha256 = npin.hash;
     };
 
-    format = "setuptools";
+    format = "other";
 
     pythonImportsCheck = [
       pname
