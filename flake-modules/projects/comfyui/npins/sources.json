@@ -42,7 +42,7 @@
     },
     "comfyui_workflow_templates_core": {
       "type": "PyPi",
-      "name": "comfyui_workflow_templates_core",
+      "name": "comfyui-workflow-templates-core",
       "version_upper_bound": null,
       "version": "0.3.20",
       "url": "https://files.pythonhosted.org/packages/f3/3b/6545c541428863e8c09db3dcb1d74bb66539ff4e061aba7f245c376fbd22/comfyui_workflow_templates_core-0.3.20.tar.gz",

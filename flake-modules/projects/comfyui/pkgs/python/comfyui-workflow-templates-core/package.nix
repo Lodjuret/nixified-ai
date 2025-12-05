@@ -26,7 +26,5 @@ in
       description = "Core module for ComfyUI workflow templates.";
       homepage = "https://github.com/Comfy-Org/workflow_templates";
       license = licenses.gpl3;
-      maintainers = [];
-      platforms = platforms.all;
     };
   }
