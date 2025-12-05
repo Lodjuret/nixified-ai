@@ -40,7 +40,7 @@
       "url": "https://files.pythonhosted.org/packages/2f/a5/617708be5de6e60f024b37e875bfdb85fd4e81ca02c004af98bcdaec1284/comfyui_workflow_templates-0.7.46.tar.gz",
       "hash": "19dd6d25af51c3e7829b93f191f9ddc86851f7e0b44aa651a6f22d17cd50aa33"
     },
-    "comfyui_workflow_templates_core": {
+    "comfyui-workflow-templates-core": {
       "type": "PyPi",
       "name": "comfyui-workflow-templates-core",
       "version_upper_bound": null,
