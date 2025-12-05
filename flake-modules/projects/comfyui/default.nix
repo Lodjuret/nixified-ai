@@ -61,7 +61,7 @@
                 # So that Comfyui Packages can be called as propogated build inputs
                 # I.e. for comfyui-workflow-templates need comfyui-workflow-templates-core
                 inherit (pyfinal) callPackage;
-                directory = ./pkgs;
+                directory = ./pkgs/python;
               };
             names = lib.attrNames extraPackages;
             extraPackagesAlreadyInPrev = lib.filter (name: pyprev ? ${name}) names;
