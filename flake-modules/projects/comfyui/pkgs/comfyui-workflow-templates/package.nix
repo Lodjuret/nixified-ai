@@ -24,7 +24,7 @@ in
         format = "setuptools";
 
         propagatedBuildInputs = [
-          comfyuiPkgs.comfyui_workflow_templates_core
+          python3Packages.comfyui_workflow_templates_core
         ];
 
         pythonImportsCheck = [
