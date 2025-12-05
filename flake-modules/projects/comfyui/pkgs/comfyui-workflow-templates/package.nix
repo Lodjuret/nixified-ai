@@ -1,7 +1,6 @@
 {
   python3Packages,
   comfyuiNpins,
-  comfyuiPkgs,
 }: let
   npin = comfyuiNpins.comfyui-workflow-templates;
 in
